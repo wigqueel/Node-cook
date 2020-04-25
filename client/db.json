@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "title": "Cousin David's Slow Cooker Brisket",
+      "category": "pork",
+      "createDate": "1585860215722",
+      "shortDesc": "This is a family recipe passed along by my late cousin David. It is so simple...just four ingredients thrown in the slow cooker! Not only is it great to come home to a hot delicious meal...your home will smell wonderful too! It is great with the extra gravy spooned over egg noodles or mashed potatoes.",
+      "longDesc": "Place the beef brisket into a slow cooker. In a medium bowl, mix together the chili sauce, onion soup mix, and garlic powder. Pour over the brisket. Cover, and cook on the Low setting for 8 to 10 hours. Slice the brisket against the grain, and pour the gravy over the slices.",
+      "id": 3
+    },
+    {
+      "title": "Баклажан, запечений з беконом ",
+      "category": "Баклажан",
+      "createDate": 1586374976271,
+      "shortDesc": "Смачний баклажан з беконом варто спробувати кожному! ",
+      "longDesc": "Баклажан вимити, обсушити і нарізати кружальцями завтовшки 1 см. Можна зрізати хвостик, але краще залишити його для краси. Трохи посоліть нарізаний баклажан. З бекону зріжте шкірку і наріжте бекон тонкими скибочками. За розміром вони мають бути приблизно такими ж, як кружечки баклажана. Викладіть по одному шматочку бекону між кружечками баклажана. Скріпіть все дерев'яною шпажкою у центрі, щоб баклажан з беконом краще тримався. Перекладіть баклажан з беконом на шпазі у відповідну форму для запікання. Посоліть і поперчіть за смаком. Можна скропити баклажан перед запіканням олією. Відправляємо баклажан в духовку, попередньо розігріту до 180 градусів, і запікайте приблизно 40 хвилин. ",
+      "id": 4
+    }
+  ]
+}
